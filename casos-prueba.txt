@@ -1,0 +1,25 @@
+TC01 - Login válido
+TC02 - Login con contraseña incorrecta
+TC03 - Login con usuario inexistente
+TC04 - Login sin ingresar contraseña
+TC05 - Login sin ingresar usuario
+TC06 - Registro de usuario válido
+TC07 - Registro sin email
+TC08 - Registro con email inválido
+TC09 - Registro con contraseña débil
+TC10 - Registro sin aceptar términos y condiciones
+TC11 - Recuperación de contraseña válida
+TC12 - Recuperación de contraseña con email no registrado
+TC13 - Recuperación de contraseña sin ingresar email
+TC14 - Logout exitoso
+TC15 - Sesión expirada por inactividad
+TC16 - Campo obligatorio vacío en formulario
+TC17 - Validación de mensaje de error en campo requerido
+TC18 - Límite de caracteres excedido en campo de texto
+TC19 - Cambio de contraseña exitoso
+TC20 - Cambio de contraseña con contraseña actual incorrecta
+TC21 - Acceso a página protegida sin sesión iniciada
+TC22 - Redirección correcta después de login
+TC23 - Carga de página principal exitosa
+TC24 - Visualización correcta del mensaje de error en login fallido
+TC25 - Redirección correcta al inicio después de cerrar sesión
