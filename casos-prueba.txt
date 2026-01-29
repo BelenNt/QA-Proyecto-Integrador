@@ -12,7 +12,7 @@ TC11 - Recuperación de contraseña válida
 TC12 - Recuperación de contraseña con email no registrado
 TC13 - Recuperación de contraseña sin ingresar email
 TC14 - Logout exitoso
-TC15 - Sesión expirada por inactividad
+TC15 - Sesión expirada
 TC16 - Campo obligatorio vacío en formulario
 TC17 - Validación de mensaje de error en campo requerido
 TC18 - Límite de caracteres excedido en campo de texto
